@@ -1,5 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Reuben Menezes
+url: "https://rmnzs.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://github.com/rmnzs"
 footer_text: "Page design by Ankit Sultana"
 
 sass:

@@ -6,9 +6,8 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I am a graduate actuary at Zurich Insurance.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
 
@@ -27,9 +26,8 @@ Here is a table
 
 Year | Award | Category
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2024 | University of Nottingham | TPP Prize (best applied mathematics MMath dissertation)
+2024 | University of Nottingham | 2nd Martin Pluck Prize
 
 Here is a horizontal rule
 
