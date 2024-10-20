@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-I am a graduate actuary at Zurich Insurance.
+I am a graduate actuary at Zurich Insurance, with a first-class MMath degree from the University of Nottingham.
 
 
 ## Research Interest
