@@ -1,33 +1,33 @@
 {
-  "ascii": [
-    "███████╗██╗  ██╗███████╗██╗     ██╗",
-    "██╔════╝██║  ██║██╔════╝██║     ██║",
-    "███████╗███████║█████╗  ██║     ██║",
-    "╚════██║██╔══██║██╔══╝  ██║     ██║",
-    "███████║██║  ██║███████╗███████╗███████╗",
-    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+"ascii": [
+  "██████╗ ███╗   ███╗███╗   ██╗███████╗███████╗",
+  "██╔══██╗████╗ ████║████╗  ██║╚══███╔╝██╔════╝",
+  "██████╔╝██╔████╔██║██╔██╗ ██║  ███╔╝ ███████╗",
+  "██╔══██╗██║╚██╔╝██║██║╚██╗██║ ███╔╝  ╚════██║",
+  "██║  ██║██║ ╚═╝ ██║██║ ╚████║███████╗███████║",
+  "╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝"
   ],
-  "title": "WebShell",
-  "username": "visitor",
-  "hostname": "webshell",
-  "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "title": "reuben menezes",
+  "username": "rmnzs",
+  "hostname": "portfolio",
+  "password": "password123",
+  "repoLink": "https://github.com/rmnzs/rmnzs.github.io",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
+    "email": "Reuben.Menezes@nottingham.ac.uk",
+    "github": "rmnzs",
+    "linkedin": "reubenm7"
   },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "aboutGreeting": "phd student",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "empty1",
+      "desscription1.",
+      "link1"
     ],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "empty2",
+      "description2",
+      "link2"
     ]
   ],
   "colors": {

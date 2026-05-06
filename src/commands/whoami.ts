@@ -1,28 +1,19 @@
 const whoamiObj = {
   "message" : [
     [
-      "In the kaleidoscope of existence,",
-      "I am but a reflection questioning the enigma - "
+      "idk",
     ],
     [
-      "Amidst cosmic whispers,",
-      "I navigate the maze of self-discovery,",
-      "echoing the eternal refrain - "
+      "i do not know the answer to that question either",
     ],
     [
-      "In the symphony of life,",
-      "I am a note inquiring its own melody,",
-      "harmonizing with the universal query - ",
+      "you can find me procrastinating in the nottingham maths building",
     ],
     [
-      "As stardust contemplating its journey,",
-      "I ponder the cosmic query,",
-      "silently asking - ",
+      "football manager addict",
     ],
     [
-      "In the tapestry of reality,",
-      "I am the thread of self-inquiry,",
-      "weaving through the eternal question - "
+      "mathematics phd student at nottingham, under the supervision of profs luis espath & kris van der zee. try asking again"
     ],
   ],
 }
