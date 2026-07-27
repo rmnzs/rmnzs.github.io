@@ -10,9 +10,14 @@ const helpObj = {
     ],
     [
       "'whoami'",
-      "A perplexing question."
+      "CV!"
     ],
-    ["'sudo'",
+    [
+      "'talks'",
+      "Talks I have given."
+    ],
+    [
+      "'sudo'",
       "???"
     ],
     [

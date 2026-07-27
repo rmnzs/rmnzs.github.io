@@ -4,6 +4,7 @@ import { BANNER } from "./commands/banner";
 import { ABOUT } from "./commands/about"
 import { DEFAULT } from "./commands/default";
 import { PROJECTS } from "./commands/projects";
+import { TALKS } from "./commands/talks";
 import { createWhoami } from "./commands/whoami";
 
 //mutWriteLines gets deleted and reassigned
@@ -28,7 +29,7 @@ const PRE_USER = document.getElementById("pre-user");
 const HOST = document.getElementById("host");
 const USER = document.getElementById("user");
 const PROMPT = document.getElementById("prompt");
-const COMMANDS = ["help", "about", "projects", "whoami", "repo", "banner", "clear"];
+const COMMANDS = ["help", "about", "projects", "talks", "whoami", "repo", "banner", "clear"];
 const HISTORY : string[] = [];
 const SUDO_PASSWORD = command.password;
 const REPO_LINK = command.repoLink;
@@ -223,6 +224,13 @@ function commandHandler(input : string) {
         break;
       }
       writeLines(PROJECTS);
+      break;
+    case 'talks':
+      if(bareMode) {
+        writeLines(["Maybe I've never given a talk?", "<br>"])
+        break;
+      }
+      writeLines(TALKS);
       break;
     case 'repo':
       writeLines(["Redirecting to github.com...", "<br>"]);

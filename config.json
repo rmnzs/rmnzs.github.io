@@ -30,6 +30,13 @@
       "link2"
     ]
   ],
+  "talks": [
+    [
+      "Computational Methods in Applied Mathematics",
+      "Vienna, 2026",
+      "https://www.tuwien.at/en/mg/asc/event/cmam2026"
+    ]
+  ],
   "colors": {
     "background": "#0C0623",
     "foreground": "#F8DDE5",
